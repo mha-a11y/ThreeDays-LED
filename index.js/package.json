@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.13.6",
+    "serialport": "^13.0.0"
+  }
+}
